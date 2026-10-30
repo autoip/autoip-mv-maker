@@ -2,6 +2,9 @@
 
 [中文](README.md) | English
 
+> **Moved to [Dreamfab 造夢廠](https://github.com/autoip/dreamfab).** This repo and autoip-drama-maker are merged into Dreamfab, an automated AI media workstation, with both histories kept; the MV line is in `mv/`, its docs in `docs/en/mv/`. This repo is archived for reference and will not be updated.
+> If you installed it, run Dreamfab's one-line install: `curl -fsSL https://raw.githubusercontent.com/autoip/dreamfab/main/install.sh | bash` (Windows: `irm https://raw.githubusercontent.com/autoip/dreamfab/main/install.ps1 | iex`); the skill is now `dreamfab-mv`.
+
 A semi-automatic pipeline that turns a song into a finished music video. It outputs a full version, a 1-minute short and vertical Shorts:
 
 - lip-synced singers, a band with a fixed line-up, story B-roll

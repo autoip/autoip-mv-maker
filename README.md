@@ -2,6 +2,9 @@
 
 中文 | [English](README.en.md)
 
+> **已經搬到 [Dreamfab 造夢廠](https://github.com/autoip/dreamfab)。** 這個 repo 和 autoip-drama-maker 合併成 Dreamfab（AI 自動化媒體工作站），歷史都保留；MV 線在 `mv/`，文件在 `docs/zh-TW/mv/`。這裡封存起來只供參考，不會再更新。
+> 已經裝過的話，重新執行 Dreamfab 的一行安裝：`curl -fsSL https://raw.githubusercontent.com/autoip/dreamfab/main/install.sh | bash`（Windows：`irm https://raw.githubusercontent.com/autoip/dreamfab/main/install.ps1 | iex`），skill 改名為 `dreamfab-mv`。
+
 把一首歌做成完整 MV 的半自動流程。可以輸出完整版、1 分鐘短版和直式 Shorts：
 
 - 對嘴主唱、固定陣容的樂團、劇情 B-roll
